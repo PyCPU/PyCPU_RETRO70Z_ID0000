@@ -3,3 +3,4 @@
 *.exp
 *.lib
 *.pyc
+**/*.egg-info/*
